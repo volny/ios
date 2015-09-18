@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BEF731B7-DBD8-4672-A995-1602FB409F9E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorMaker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1183508CF741CF7882C811EE1378BCDD326202E1</key>
+		<string>https://github.com/volny/color-sliders.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ColorMaker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1183508CF741CF7882C811EE1378BCDD326202E1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/volny/color-sliders.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1183508CF741CF7882C811EE1378BCDD326202E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1183508CF741CF7882C811EE1378BCDD326202E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ColorMaker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
